@@ -1,0 +1,7 @@
+# Eclipse Core
+.settings/
+.buildpath
+.project
+
+# Composer
+vendor/

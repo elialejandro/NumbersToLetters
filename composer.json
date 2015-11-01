@@ -1,0 +1,30 @@
+{
+  "name" : "rurounize/NumerosALetras",
+  "version" : "1.0",
+  "require" : {
+    "php" : ">= 5.3.3"
+  },
+  "homepage": "https://github.com/elialejandro/NumerosALetras",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name" : "Eli Alejandro Moreno López",
+      "email": "iscelialejandro@gmail.com",
+      "role" : "Developer"
+    }
+  ],
+  "autoload" : {
+  	"psr-4" : {
+  	  "Rurounize\\" : "src"
+  	}
+  },
+  "repositories" : [ 
+    {
+      "type" : "composer",
+      "url" : "https://packagist.org/"
+    } 
+  ],
+  "require-dev" : {
+    "phpunit/phpunit" : "~4.8.16"
+  }
+}
