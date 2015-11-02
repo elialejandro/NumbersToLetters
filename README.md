@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/elialejandro/NumerosALetras.svg?branch=master)](https://travis-ci.org/elialejandro/NumerosALetras)
 # NumerosALetras
 Es una librería que ayuda a convertir números a letras en formato moneda
 
